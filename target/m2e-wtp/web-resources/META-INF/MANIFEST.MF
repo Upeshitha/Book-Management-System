@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Implementation-Title: book.api
+Implementation-Title: bookmanagement
 Implementation-Version: 0.0.1-SNAPSHOT
 Built-By: Deran
 Implementation-Vendor-Id: com.upeshitha
